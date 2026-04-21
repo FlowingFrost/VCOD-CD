@@ -1,0 +1,2 @@
+# VCOD-CD
+请使用GitLFS
